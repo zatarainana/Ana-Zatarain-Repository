@@ -11,3 +11,5 @@ Map the System Competition, University of Oxford, UK. June 2022.
 SOLV[ED] Youth Innovation Challenge, MIT, USA. March 2022.
 
 Participating both individually or as a member of a student groups, these fast-paced experiences have shaped my research and inquisitory skills; they have also helped become more independent, organized, and self-motivated Furthermore, by immersing myself in the issues, allowing myself to become sensitized by them, and by interviewing those who come face-to-face with them on a daily basis, I have come to understand that my main goal in life is to use my skills to help my community and those without a voice.
+
+See further information here: https://github.com/zatarainana/Ana-Zatarain-Repository.wiki.git
